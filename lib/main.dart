@@ -153,7 +153,7 @@ class BlackPianoKey extends StatelessWidget {
             colors: [Colors.white, Colors.black],
             begin: Alignment.bottomLeft,
             end: Alignment.bottomRight,
-            stops: [0.2, 0.8],
+            stops: [0.2, 0.7],
           ),
         ),
       ),
